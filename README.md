@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend dev..
 - 🌱 I’m currently learning sql to start incoperating backend
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me on 0554448618 or email me on stevennyarko882@gmail.com
+- 📫 You can reach out via stevennyarko882@gmail.com
 - ⚡ Fun fact: JavaScript was created in just 10 days by
 - Brendan Eich in 1995. We're pretty sure he didn't sleep much during
 - that time, and his coffee mug was permanently attached to his hand"
