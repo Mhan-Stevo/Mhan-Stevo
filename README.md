@@ -17,7 +17,7 @@ Other Tools: Git, GitHub, VS Code, REST APIs
 
 Contact
 - Email: stevennyarko882@gmail.com
-- Portfolio: coming soon
+- Portfolio: mhanstevo.vercel.app
 - Open to opportunities, collaborations, and learning experiences
 
 Fun Fact
