@@ -16,8 +16,8 @@ Database: MySQL, PostgreSQL, MongoDB
 Other Tools: Git, GitHub, VS Code, REST APIs
 
 Contact
-- Email: stevennyarko882@gmail.com
-- Portfolio: mhanstevo.vercel.app
+- Email: [stevennyarko882@gmail.com]
+- Portfolio: [codewithmhan.vercel.app]
 - Open to opportunities, collaborations, and learning experiences
 
 Fun Fact
